@@ -1,0 +1,3 @@
+rootProject.name = 'answer'
+include 'answer-core'
+include 'answer-server'
